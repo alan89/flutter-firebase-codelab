@@ -129,7 +129,7 @@ packages:
       name: provider
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "6.0.2"
+    version: "6.0.3"
   shrine_images:
     dependency: "direct main"
     description:
