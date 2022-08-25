@@ -9,7 +9,7 @@ dependencies:
   adaptive_breakpoints: ^0.0.4
   adaptive_components: ^0.0.3
   adaptive_navigation: ^0.0.5
-  animations: ^2.0.2
+  animations: ^2.0.4
   cupertino_icons: ^1.0.2
   dynamic_color: ^1.1.2
   english_words: ^4.0.0
